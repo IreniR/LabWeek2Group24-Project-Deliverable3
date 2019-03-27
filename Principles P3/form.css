@@ -1,0 +1,51 @@
+h1{
+	float: right;
+	background-color: powderblue;
+	color: white;
+	border:1px solid black;
+}
+
+#submitBtn{
+	border-style: none;
+	color: white;
+	background-color: blue;
+}
+
+#submitBtn:hover{
+	color: black;
+	background-color: white;
+}
+
+body{
+	font-weight: bold;
+	background-color: lightgrey;
+}
+
+fieldset{
+	width: 50%;
+	background-color: powderblue;
+}
+
+legend{
+	background-color: black;
+	color: powderblue;
+}
+
+li{
+	list-style-type: none;
+	display: inline-block;
+}
+
+a{
+	background-color: powderblue;
+	border: 1px solid black;
+	padding: 3px;
+	color: white;
+	margin: 10px;
+	text-decoration: none;
+}
+
+a:hover{
+	color: powderblue;
+	background-color: white;
+}
