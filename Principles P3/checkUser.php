@@ -44,7 +44,7 @@
 				if(!empty($row["username"]) && !empty($row["password"])){
 					echo "Congrats on logging in, ".$username."!!!";
 					echo"Enjoy your game.";
-					 header( 'Location: Sudoku.html' ) ;
+					 header( 'Location: Sudoku2.0.html' ) ;
 
 				} else {
 					//if the fields did not match redirect to login page
@@ -61,7 +61,7 @@
 		 echo "Welcome ".$username."!!!";
 		 echo "Enjoy your game.";
 		 //redirect to game instance
-		 header( 'Location: Sudoku.html' ) ;
+		 header( 'Location: Sudoku2.0.html' ) ;
 	}
 	}
 

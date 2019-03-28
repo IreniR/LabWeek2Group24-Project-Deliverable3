@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
-	<link rel="stylesheet" type="text/css" href="form.css">
+	<title>Log In</title>
+	<link rel="stylesheet" type="text/css" href="form_style.css">
 </head>
 <body>
 	<h1>SUDOKU</h1>

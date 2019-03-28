@@ -1,0 +1,50 @@
+h1{
+	background-color: black;
+	color: white;
+	border:1px solid black;
+	text-align: center;
+}
+
+#submitBtn{
+	border-style: none;
+	color: white;
+	background-color: black;
+}
+
+#submitBtn:hover{
+	color: black;
+	background-color: white;
+}
+
+body{
+	background-color: #D4D6BA;
+	}
+
+fieldset{
+	width: 50%;
+	background-color: #D4D6BA;
+}
+
+legend{
+	background-color: black;
+	color: white;
+}
+
+li{
+	list-style-type: none;
+	display: inline-block;
+}
+
+a{
+	background-color: black;
+	border: 1px groove white;
+	padding: 3px;
+	color: white;
+	margin: 10px;
+	text-decoration: none;
+}
+
+a:hover{
+	color: black;
+	background-color: white;
+}
