@@ -1,0 +1,21 @@
+
+Issues and solutions
+
+The application had been unable to receive inputted values of the user and compare them with the correct values set for the sudoku board
+- This issue was resolved as team members discussed ways on how an input can be stored as a specific id, as the id of the board value matched
+  the corresponding correct value a successfully completed board was computed
+
+Another issue had been that the database had not been adequately setup for consumers to become members of the application, without becoming a member 
+a visitor is unable to access the application	
+-This issue was resolved by creating a system that allows new members to join and registered members to log in.
+
+The board application was not able to generate multiple games, it had produced many errors as the code had not been able to visually present itself
+- As a group we discussed that, due to the time we had remaining, to implement only one working sudoku puzzle
+
+
+The switching between websites had not be implemented with a flow as we had tested to navigate to different locations in the application numerous times
+- Group members deeply understood the significance in navigating through the interface of the application, by providing comments simultaneously in the code,
+  we knew where to transition each page making the interface simple and understandable
+
+The Sudoku board could not display when using for loops in javascript to create the table
+- The issue was resolved using html to create the table instead
